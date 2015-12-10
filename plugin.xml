@@ -56,4 +56,11 @@
         <source-file src="src/wp8/Clipboard.cs" />
     </platform>
 
+    <!-- windows -->
+    <platform name="windows">
+        <js-module src="src/windows/ClipboardProxy.js" name="ClipboardProxy">
+            <merges target="" />
+        </js-module>
+    </platform>
+
 </plugin>
