@@ -1,6 +1,6 @@
 {
   "name": "cordova-universal-clipboard",
-  "version": "1.0.0",
+  "version": "0.1.1",
   "description": "Clipboard management plugin for Cordova/PhoneGap",
   "cordova": {
     "id": "cordova-universal-clipboard",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:ranvirsingh/CordovaClipboard.git"
+    "url": "git@github.com:Visigo/CordovaClipboard.git"
   },
   "keywords": [
     "cordova",
